@@ -1,0 +1,10 @@
+.customize-input {
+  opacity: 0;
+  z-index: 1;
+}
+
+.icon-position {
+  position: relative;
+  top: 2rem;
+  left: 1rem;
+}

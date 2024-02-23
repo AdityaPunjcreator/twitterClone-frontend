@@ -1,0 +1,14 @@
+.custom-div {
+  height: 150px !important;
+  background-color: rgb(59, 189, 240) !important;
+  margin: 3rem 1rem 2px 1rem !important;
+}
+
+.user-profile-pic {
+  height: 80px;
+  width: 80px;
+  border-radius: 70%;
+  position: relative;
+  top: -4rem;
+  margin-left: 1rem;
+}

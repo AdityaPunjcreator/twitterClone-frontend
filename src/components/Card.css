@@ -1,0 +1,9 @@
+.tweet-profile-pic {
+  height: 50px;
+  width: 50px;
+  border-radius: 70%;
+}
+
+.cursor {
+  cursor: pointer;
+}

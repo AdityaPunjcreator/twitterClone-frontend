@@ -1,0 +1,23 @@
+.img-fluid {
+  /* here basically i am marking this property as important as i want to overwrite the intial value of height in the image-fluid built in class */
+  height: 100% !important;
+}
+
+.custom-margin {
+  max-width: 80%;
+  position: relative;
+  top: 40%;
+}
+
+.loader-icon {
+  position: relative;
+  top: 11rem;
+}
+
+/* writing the media query below, till the screen size of 768 px ,the below style will apply  */
+@media screen and (max-width: 768px) {
+  .custom-margin {
+    position: relative;
+    top: 20%;
+  }
+}

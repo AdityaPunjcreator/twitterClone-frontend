@@ -1,0 +1,10 @@
+.brand-font {
+  font-family: "Pacifico", cursive;
+  font-size: 2rem;
+}
+
+.navbar-profile-pic {
+  height: 28px;
+  width: 28px;
+  border-radius: 70%;
+}
